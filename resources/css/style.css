@@ -460,6 +460,7 @@ p {
         position: relative;
         display: block;
         text-align: center;
+        padding-top: 30px;
     }
 
     .dropdown-btn-menu-mobile .dropbtn-menu {
